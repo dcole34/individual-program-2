@@ -7,4 +7,3 @@ This repository includes three C programs showcasing synchronization techniques 
 - `barrier.c`: Demonstrates a barrier synchronization method ensuring all threads reach a specific point before proceeding.
 - `rendezvous.c`: Illustrates how two threads synchronize their execution at a particular stage.
 - `fork-join.c`: Shows the fork/join pattern, where a parent thread spawns a child thread and waits for its completion.
-To compile each program, use the Makefile with the `make` command.
